@@ -1,0 +1,11 @@
+{
+  "name": "supAppApi",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "morgan": "*"
+  }
+}
